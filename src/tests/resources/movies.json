@@ -1,0 +1,14 @@
+{
+  "movies": [
+    {
+      "url": "https://www.youtube.com/watch?v=aaa",
+      "title": "動画1",
+      "yyyymmdd": "2021/01/01"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=bbb",
+      "title": "動画2",
+      "yyyymmdd": "2021/12/31"
+    }
+  ]
+}
