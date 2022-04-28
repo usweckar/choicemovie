@@ -4,7 +4,7 @@ import json
 import settings
 
 
-class ConvertToJson:
+class Converter:
 
     def __init__(
         self,
@@ -41,5 +41,5 @@ class ConvertToJson:
 
 
 if __name__ == '__main__':
-    cls = ConvertToJson()
+    cls = Converter()
     cls.save()

@@ -19,7 +19,7 @@ $ . venv/bin/activate
 csvファイルを元にjsonファイルを作成
 
 ```console
-$ python3 src/convert_to_json.py
+$ python3 src/converter.py
 ```
 
 jsonファイルを元にランダムで動画を1つ選択
