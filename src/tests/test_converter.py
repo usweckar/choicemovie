@@ -1,12 +1,12 @@
 import pytest
 
 
-class TestConvertToJson:
+class TestConverter:
 
     @pytest.fixture
     def target(self):
-        from convert_to_json import ConvertToJson
-        return ConvertToJson()
+        from converter import Converter
+        return Converter()
 
     def test_save(self, target):
         import tempfile
